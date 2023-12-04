@@ -1,4 +1,4 @@
-import numpy as np
+import Part1.numpy as np
 
 # 1. Creating arrays
 arr1 = np.array([1, 2, 3, 4, 5])  # Create a 1-dimensional array
